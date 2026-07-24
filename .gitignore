@@ -53,3 +53,11 @@ media/library/faces/*.webp
 .idea/
 .DS_Store
 Thumbs.db
+
+# Context-Matrix Global Brain tracking (Local Only)
+MATRIX_NODE_LINK.md
+.agents/
+Current_Status/
+Git-Process.md
+skills-lock.json
+Knowledge/
