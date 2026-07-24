@@ -1,5 +1,8 @@
 Link: https://learnwithhasan.com/guide/claude-code-video-editing/
 Video Source: https://www.youtube.com/watch?v=KuXM3mRgRNA
+Related Repo: https://github.com/hassancs91/claude-youtube-editor
+
+
 
 Transcript
 
